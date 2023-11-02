@@ -1,0 +1,9 @@
+{
+    
+    "[markdown]": {
+        "files.trimTrailingWhitespace": false,
+        "editor.fontFamily": "微软雅黑, Ubuntu mono, Consolas, Courier New, monospace",
+        "editor.fontSize": 16,
+        "editor.lineNumbers": "interval"
+    }
+}
